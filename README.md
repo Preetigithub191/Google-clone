@@ -14,9 +14,5 @@ This is a simple Google homepage clone built using **HTML, CSS, and JavaScript**
 - **JavaScript** for interactivity (Search, Dark Mode)
 
 ## Screenshot:
-![Google Clone Screenshot](screenshots/google-clone.png)
+![Screenshot](./screenshot/Screenshot%202025-04-30%20155242.png)
 
-## How to Run:
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/google-clone.git
